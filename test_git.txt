@@ -1,0 +1,3 @@
+Método de líneas y así no hay que discretizar el tiempo. 
+
+Tener una resolución de la función
